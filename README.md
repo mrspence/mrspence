@@ -4,7 +4,7 @@ I'm Matt, a developer and founder based in the UK, shipping software and AI that
 
 **Currently working on:**
 
-- [Whisper AI](https://github.com/Whisper-AI-App/app): a 100% private, on-device AI app
+- [Whisper AI](https://usewhisper.org): a 100% private, on-device AI app ([code](https://github.com/Whisper-AI-App/app))
 
 - [Nano Collective](https://nanocollective.org): open-source AI tools, built privacy-first
 
