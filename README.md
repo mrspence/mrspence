@@ -16,6 +16,8 @@ I'm Matt, a developer and founder based in the UK, shipping software and AI that
 
 Always happy to chat, feel welcome to [reach out](https://matt-spence.com).
 
+https://matt-spence.com
+
 <!--
 **mrspence/mrspence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
